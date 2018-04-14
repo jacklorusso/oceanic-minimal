@@ -11,5 +11,5 @@ Minimal VS Code settings that strip back and tweak the [Oceanic Plus](https://ma
 If you like the look of this, you can follow these steps:
 
 1.  Install and set your theme to [Oceanic Plus](https://marketplace.visualstudio.com/items?itemName=marcoms.oceanic-plus) (this will look especially nice if you're using a font with italics support like [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono) or [Operator Mono](https://www.typography.com/fonts/operator/styles/))
-2.  Go to **Preferences > Settings** (`⌘,`) and paste the content of the `[settings](/settings)` in your User Settings
-3.  _Optional:_ install the [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons) extension and set your file icon theme to "File Icons (Colourless)"
+2.  Go to **Preferences > Settings** (`⌘,`) and paste the content of the `settings` file in your User Settings
+3.  _Optional:_ install the [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons) extension and set your file icon theme to "File Icons (Colorless)"
