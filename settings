@@ -1,5 +1,5 @@
 {
-    "editor.fontFamily": "IBM Plex Mono, Fira Code, monospace",
+    "editor.fontFamily": "IBM Plex Mono, Fira Code, Menlo, Monaco, monospace",
     "editor.fontSize": 16,
     "editor.fontLigatures": true,
     "editor.folding": true,
@@ -13,7 +13,7 @@
     "editor.formatOnSave": true,
     "editor.formatOnPaste": true,
     "editor.formatOnType": false,
-    "window.zoomLevel": 1,
+    "window.zoomLevel": -1,
     "zenMode.centerLayout": true,
     "workbench.startupEditor": "welcomePage",
     "workbench.statusBar.feedback.visible": false,
@@ -25,6 +25,8 @@
         "list.inactiveSelectionBackground": "#1A2B34",
         "activityBar.background": "#15232C",
         "sideBar.border": "#15242C",
+        "sideBar.background": "#15242C",
+        "statusBar.background": "#15242C",
         "sideBarSectionHeader.background": "#16242c",
         "editorGroup.dropBackground": "#16242c",
         "editorGroupHeader.noTabsBackground": "#16242c",
@@ -45,6 +47,6 @@
             "variables": "#efefef"
         }
     },
-    "workbench.iconTheme": "file-icons-colourless",
-    "workbench.colorTheme": "Oceanic Plus"
+    "workbench.colorTheme": "Oceanic Plus",
+    "workbench.iconTheme": "file-icons-colourless"
 }
